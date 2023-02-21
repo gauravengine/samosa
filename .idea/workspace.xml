@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4761685d-529e-431c-9ffb-0c85034ed085" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/samosa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.idea/backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/foodItemsSchema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/foodItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/userSchema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/FoodItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/samosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LfNibfYRu66SkzI2wDdSMMHiPy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gengi/Desktop/samosa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gengi\Desktop\samosa\src" />
+      <recent name="C:\Users\gengi\Desktop\samosa\src\Components" />
+      <recent name="C:\Users\gengi\Desktop\samosa\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4761685d-529e-431c-9ffb-0c85034ed085" name="Changes" comment="" />
+      <created>1676258309233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676258309233</updated>
+      <workItem from="1676258310922" duration="106000" />
+      <workItem from="1676355823955" duration="817000" />
+      <workItem from="1676385441229" duration="780000" />
+      <workItem from="1676386241410" duration="7488000" />
+      <workItem from="1676433262331" duration="6484000" />
+      <workItem from="1676457777443" duration="3129000" />
+      <workItem from="1676469073544" duration="152000" />
+      <workItem from="1676473284444" duration="1034000" />
+      <workItem from="1676476214471" duration="1645000" />
+      <workItem from="1676480331636" duration="1233000" />
+      <workItem from="1676628348232" duration="5079000" />
+      <workItem from="1676716125625" duration="647000" />
+      <workItem from="1676801153798" duration="8675000" />
+      <workItem from="1676829013488" duration="893000" />
+      <workItem from="1676893467413" duration="1216000" />
+      <workItem from="1676953074526" duration="2485000" />
+      <workItem from="1676956457316" duration="5005000" />
+      <workItem from="1676976058379" duration="1240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

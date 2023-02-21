@@ -1,6 +1,8 @@
 .App {
   text-align: center;
+
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +38,15 @@
     transform: rotate(360deg);
   }
 }
+
+#mycarousel-inner{
+
+  /*height: 50vh;*/
+  max-height: 700px;
+  object-fit: contain !important;
+}
+/*.mycards > img{*/
+/*  width: 20rem;*/
+/*  height: 20rem;*/
+/*  object-fit: cover;*/
+/*}*/
