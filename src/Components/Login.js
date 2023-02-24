@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import {json} from "react-router-dom";
+import {json, useNavigate} from "react-router-dom";
 
 const imgLink='https://images.unsplash.com/photo-1609951651556-5334e2706168?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60'
 export default function Login(props){
@@ -7,6 +7,7 @@ export default function Login(props){
 		'email':'',
 		'password':''
 	})
+	let navigator=useNavigate();
 	function handleChange(e){
 		setFormData({
 			...formData,
@@ -39,6 +40,7 @@ export default function Login(props){
 			//login success done
 			const authToken=jsonData.authToken
 			localStorage.setItem("authToken",authToken);
+			navigator(0);
 		}
 		else{
 			const message=jsonData.message

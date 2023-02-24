@@ -6,8 +6,10 @@ import {BrowserRouter, Route, Router, Routes} from "react-router-dom";
 import Login from "./Components/Login";
 import SignUp from "./Components/SignUp";
 import Home from "./Components/Home";
+import {CartProvider, cartProvider} from "./Components/ContextReducer"
 function App() {
   return (
+    <CartProvider>
     <BrowserRouter>
         <Routes>
             <Route path={'/'} element={<Navbar/>} >
@@ -18,6 +20,7 @@ function App() {
         </Routes>
       {/*<Navbar/><Carousel/>*/}
     </BrowserRouter>
+    </CartProvider>
   );
 }
 
